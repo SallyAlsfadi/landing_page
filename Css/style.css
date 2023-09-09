@@ -1,0 +1,17 @@
+.container{
+    margin: 20px auto !important;
+    width: 60% !important; 
+}
+.card-title{
+    color:rgb(70, 70, 246);
+}
+.card-footer{
+    background: rgb(253, 253, 253);
+    
+}
+.text-body-secondary{
+    font-weight: lighter;
+}
+.a-link{
+    text-decoration: none;
+}
